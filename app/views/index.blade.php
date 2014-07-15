@@ -13,10 +13,10 @@
 	<blockquote>
 		<dl>
   			<dt><a class = "lead" href='/randtext'>Lorem Ipsum Generator</a></dt>
-			<dd>Generate paragraphs of random text.</dd>
+			<dd>Generates paragraphs of random text.</dd>
 			<br>
 			<dt><a class = "lead" href='/randuser'>Random User Generator</a></dt>
-			<dd>Generate random user profiles.</dd>
+			<dd>Generates random user profiles.</dd>
 		</dl>
 
   		
